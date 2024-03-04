@@ -1,0 +1,11 @@
+edu.uoc.pacman.controller
+edu.uoc.pacman.model
+edu.uoc.pacman.model.entities
+edu.uoc.pacman.model.entities.characters
+edu.uoc.pacman.model.entities.characters.ghosts
+edu.uoc.pacman.model.entities.characters.ghosts.chase
+edu.uoc.pacman.model.entities.characters.pacman
+edu.uoc.pacman.model.entities.items
+edu.uoc.pacman.model.exceptions
+edu.uoc.pacman.model.utils
+edu.uoc.pacman.view
