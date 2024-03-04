@@ -1,0 +1,17 @@
+;width
+8
+;height
+8
+;board
+########
+# . . L#
+#      #
+#      #
+#      #
+#      #
+#      #
+########
+;pacman
+1,1,RIGHT,NORMAL
+;ghosts
+clyde,2,2,LEFT,SCATTER
